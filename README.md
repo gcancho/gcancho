@@ -46,8 +46,6 @@ You can write to my social networks :)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcancho&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
   
-  [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=gcancho&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/gcancho)
-
 ### 📹 Latest videos from my [Youtube Channel](https://youtube.com/giocancho)
 
 <a href='https://youtu.be/5Wnc0rHrs4I' target='_blank'>
