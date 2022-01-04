@@ -32,11 +32,11 @@ You can write to my social networks :)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<h3>🛠 To Learn</h3>
+<h3>:neckbeard: To Learn</h3>
 
 🔧 &nbsp; Python
 
-<h3>🛠 Hobbies</h3>
+<h3>:alien: Hobbies</h3>
 
   Ride a bike | Watch Anime | Play Computer Games 
  
