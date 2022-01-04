@@ -1,24 +1,28 @@
-<img align='right' src="https://user-images.githubusercontent.com/46111857/147995783-4dc71965-fbc5-404e-8585-fbed180037bf.png" width="230">
+### Hello World ! :octocat: <h2> I'm Giovanni Cancho</h2>
 
-<h3> 👨🏻•💻 About Me </h3>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+<h3> 👨🏻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- :sweat_smile: &nbsp; I'm peruvian.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- 🎓 &nbsp; Studying systems engineering at university.
 
+- :computer: &nbsp; Teaching on <a href="https://www.youtube.com/giocancho" target="_blank" rel="noopener">youtube<a>.
 
 
 <h3>🛠 Tech Stack</h3>
 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS 
 
+- 💻 &nbsp; PHP | SQL Server | MySQL
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+<h3>🛠 To Learn</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🔧 &nbsp; Python
+
+<hr>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcancho&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
