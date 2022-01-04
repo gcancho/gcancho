@@ -56,6 +56,9 @@ You can write to my social networks :)
   <img width='30%' src='https://i9.ytimg.com/vi/AWHs8aQ1Eb4/mqdefault.jpg?v=60677e10&sqp=COiHz44G&rs=AOn4CLAmAWL-RlSCCVivLJS1HPg9iBEKTw'/>
 </a>
 
+ <hr>
+ <br>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gcancho/count.svg" />
