@@ -33,6 +33,10 @@
 
 🔧 &nbsp; Python
 
+<h3>🛠 Hobbies</h3>
+
+  Ride a bike | Watch Anime | Play Computer Games 
+ 
 <hr>
 
 
