@@ -47,3 +47,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gcancho/count.svg" />
 </p>
+  
+ Made with love 💚 
+
+
