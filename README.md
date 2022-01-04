@@ -43,7 +43,10 @@ You can write to my social networks :)
  
 <hr>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcancho&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcancho&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
+  
+  [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=gcancho&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/gcancho)
 
 ### 📹 Latest videos from my [Youtube Channel](https://youtube.com/giocancho)
 
@@ -66,5 +69,7 @@ You can write to my social networks :)
 </p>
   
  Made with love by <a href="https://github.com/gcancho" target="_blank" rel="noopener">gcancho<a>💚 
+  
+  
 
 
