@@ -65,6 +65,6 @@ You can write to my social networks :)
   <img src="https://profile-counter.glitch.me/gcancho/count.svg" />
 </p>
   
- Made with love 💚 
+ Made with love by <a href="https://github.com/gcancho" target="_blank" rel="noopener">gcancho<a>. 💚 
 
 
