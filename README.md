@@ -1,4 +1,4 @@
-### Hello World ! :octocat: <h2> I'm Giovanni Cancho</h2>
+### Hello World ! :octocat:
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
