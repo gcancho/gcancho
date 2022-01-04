@@ -49,13 +49,13 @@ You can write to my social networks :)
 ### 📹 Latest videos from my [Youtube Channel](https://youtube.com/giocancho)
 
 <a href='https://youtu.be/5Wnc0rHrs4I' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/an_webp/5Wnc0rHrs4I/mqdefault_6s.webp?du=3000&sqp=CMTV0o4G&rs=AOn4CLDOTDcreI23LUJ1HnVHUGsYVdxZEw'/>
+  <img width='30%' src='https://i9.ytimg.com/vi_webp/5Wnc0rHrs4I/mqdefault.webp?v=61d20c6a&sqp=CPDX0o4G&rs=AOn4CLAgDrI6qA8MfwOGCeEigvhj8qHTsA'/>
 </a>
 <a href='https://youtu.be/Na2diMoaxEo' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/vi/Na2diMoaxEo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKlIiQsB9dbHu5v0MLuemSYxzABg'/>
+  <img width='30%' src='https://i9.ytimg.com/vi_webp/Na2diMoaxEo/mqdefault.webp?v=60736dda&sqp=CPDX0o4G&rs=AOn4CLALDiwvQADcmXrz5AMT9RDCUonrpg'/>
 </a>
   <a href='https://youtu.be/AWHs8aQ1Eb4' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/an_webp/AWHs8aQ1Eb4/mqdefault_6s.webp?du=3000&sqp=CMLK0o4G&rs=AOn4CLDp1tyWyctfWKZDQoQ_5sc9clmzDw'/>
+  <img width='30%' src='https://i9.ytimg.com/vi/AWHs8aQ1Eb4/mqdefault.jpg?v=60677e10&sqp=CPDX0o4G&rs=AOn4CLCcU0YkRWWm5VWzbtqAcl55C9ro9w'/>
 </a>
 
  <hr>
