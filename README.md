@@ -49,13 +49,13 @@ You can write to my social networks :)
 ### 📹 Latest videos from my [Youtube Channel](https://youtube.com/giocancho)
 
 <a href='https://youtu.be/5Wnc0rHrs4I' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi_webp/5Wnc0rHrs4I/mqdefault.webp?v=61d20c6a&sqp=CPDX0o4G&rs=AOn4CLAgDrI6qA8MfwOGCeEigvhj8qHTsA'/>
+  <img width='30%' src='https://user-images.githubusercontent.com/46111857/148288298-8f9a15f2-84c1-477a-9ca7-adb7982ffb60.jpg'/>
 </a>
 <a href='https://youtu.be/Na2diMoaxEo' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi_webp/Na2diMoaxEo/mqdefault.webp?v=60736dda&sqp=CPDX0o4G&rs=AOn4CLALDiwvQADcmXrz5AMT9RDCUonrpg'/>
+  <img width='30%' src='https://user-images.githubusercontent.com/46111857/148288562-d3911c1e-e361-4c0a-840d-32939d2d444a.jpg'/>
 </a>
   <a href='https://youtu.be/AWHs8aQ1Eb4' target='_blank'>
-  <img width='30%' src='https://i9.ytimg.com/vi/AWHs8aQ1Eb4/mqdefault.jpg?v=60677e10&sqp=CPDX0o4G&rs=AOn4CLCcU0YkRWWm5VWzbtqAcl55C9ro9w'/>
+  <img width='30%' src='https://user-images.githubusercontent.com/46111857/148288491-6a05b17f-2b50-47ba-be03-f4f5d6d6e56c.jpg'/>
 </a>
 
  <hr>
