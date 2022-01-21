@@ -36,7 +36,7 @@ You can write to my social networks :)
 
 <h3>:eyes: To Learn</h3>
 
-- Python
+- React JS, PHP
 
 <h3>:alien: Hobbies</h3>
 
